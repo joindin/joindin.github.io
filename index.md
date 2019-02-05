@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Joind.in Project Documentation
+title: Joind.In Project Documentation
 ---
 
 ## Joind.In Documentation
