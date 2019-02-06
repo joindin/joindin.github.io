@@ -28,4 +28,4 @@ After removal all comments of that user will belong to an "anonymous user" and i
 trace them back to a certain user apart from information in the comments content. Comments will not be altered in this process.
 
 After removal talks will not be linked to a user-account any more but the users name will still be visible as the person 
-that gave that talk/session/keynote/etc as that is publicly available information from the Events schedule (printend or on their Website)
+that gave that talk/session/keynote/etc as that is publicly available information from the Events schedule (printed or on their Website)
