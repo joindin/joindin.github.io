@@ -1,4 +1,7 @@
-# General Data Protection Regulation
+---
+layout: page
+title: General Data Protection Regulation (GDPR)
+---
 
 ## GDPR-relevant information for and from joind.in
 
