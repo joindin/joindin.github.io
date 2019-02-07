@@ -85,7 +85,7 @@ header h2 {
 }
 
 header img {
-  height: 50%;
+  max-height: 80px;
 }
 
 #container {
