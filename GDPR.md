@@ -3,9 +3,9 @@ layout: page
 title: General Data Protection Regulation (GDPR)
 ---
 
-## GDPR-relevant information for and from joind.in
+## <abbr title="General Data Protection Regulation">GDPR</abbr>-relevant information for and from joind.in
 
-## Collected PII
+## Collected Personally Identifiable Information (<abbr title="Personally Identifiable Information">PII</abbr>)
 
 We collect the following mandatory information from users on registration
 
