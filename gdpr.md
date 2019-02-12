@@ -1,10 +1,8 @@
 ---
 layout: page
 title: General Data Protection Regulation (GDPR)
-subtitle: GDPR-relevant information for and from joind.in
+subtitle: <abbr title="General Data Protection Regulation">GDPR</abbr>-relevant information for and from joind.in
 ---
-
-## <abbr title="General Data Protection Regulation">GDPR</abbr>-relevant information for and from joind.in
 
 ## Collected Personally Identifiable Information (<abbr title="Personally Identifiable Information">PII</abbr>)
 
