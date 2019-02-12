@@ -1,10 +1,8 @@
 ---
 layout: page
 title: General Data Protection Regulation (GDPR)
-subtitle: GDPR-relevant information for and from joind.in
+subtitle: <abbr title="General Data Protection Regulation">GDPR</abbr>-relevant information for and from joind.in
 ---
-
-## <abbr title="General Data Protection Regulation">GDPR</abbr>-relevant information for and from joind.in
 
 ## Collected Personally Identifiable Information (<abbr title="Personally Identifiable Information">PII</abbr>)
 
@@ -14,7 +12,7 @@ We collect the following mandatory information from users on registration in ord
 * Username
 * Email Address
 
-Additionally we collect the user's IP address when commenting on a talk. That is necessary because...??
+Additionally, when commenting on a talk, we collect the user's IP address so the comment can be submitted to a third-party spam checker.
 
 ## Processes
 
